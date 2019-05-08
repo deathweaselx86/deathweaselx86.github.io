@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae 
-layout: post
+layout: page
 ---
 
 Jessica Ross McKinnie  
@@ -10,6 +10,16 @@ Austin, TX
 
 ### Purpose
 To help other engineers become more productive while learning promising new technologies
+
+### Languages
+- Expert
+  - Python
+- Proficient
+  - Ruby
+  - Javascript (Node.JS)
+- Familiar
+  - C
+  - Golang
 
 ### Positions
 **Senior Software Engineer - App Backend** - Optimizely (Oct 2018 - present)  

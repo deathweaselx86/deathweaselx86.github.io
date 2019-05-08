@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jessica Ross McKinnie
 email: jess@deathweasel.io
-description: Static site for information about Jessica Ross McKinnie
+description: Think blue, count two. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://deathweaselx86.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deathweasel
