@@ -10,7 +10,3 @@ passionate about making other engineers' lives better by writing internal tools,
 infrastructure, and setting best practices.
 
 In her spare time, she enjoys competitive powerlifting, painting, family, and pets.
-
-[LinkedIn](https://www.linkedin.com/in/jessica-ross-0bbbb7a/)
-[Twitter](https://twitter.com/deathweasel)
-[Instagram](https://www.instagram.com/deathweaselx86/)

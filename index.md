@@ -11,7 +11,7 @@ Austin, TX
 ### Purpose
 To help other engineers become more productive while learning promising new technologies
 
-### Languages
+### Programming Languages
 - Expert
   - Python
 - Proficient
@@ -20,6 +20,18 @@ To help other engineers become more productive while learning promising new tech
 - Familiar
   - C
   - Golang
+
+### Technologies
+- Databases
+  - postgreSQL
+  - mySQL
+- Web frameworks
+  - Django
+  - Flask
+  - Rails
+- Other
+  - Elasticsearch
+  - Serverless
 
 ### Positions
 **Senior Software Engineer - App Backend** - Optimizely (Oct 2018 - present)  
@@ -92,3 +104,7 @@ Specialized in applied/computational mathematics
  - University of Iowa - Linear Programming (2005)
  - Iowa State University - Linear Algebra: Matrix D-Stability (2006)
 
+### High School
+- National Merit Scholar Semifinalist
+- National Acheivement Scholar
+- National Honor Society
