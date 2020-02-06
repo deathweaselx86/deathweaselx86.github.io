@@ -11,30 +11,9 @@ Austin, TX
 ### Purpose
 To help other engineers become more productive while learning promising new technologies
 
-### Programming Languages
-- Expert
-  - Python
-- Proficient
-  - Ruby
-  - Javascript (Node.JS)
-- Familiar
-  - C
-  - Golang
-
-### Technologies
-- Databases
-  - postgreSQL
-  - mySQL
-- Web frameworks
-  - Django
-  - Flask
-  - Rails
-- Other
-  - Elasticsearch
-  - Serverless
-
 ### Positions
-**Senior Software Engineer - App Backend** - Optimizely (Oct 2018 - present)  
+**Senior Software Engineer** - Optimizely (Oct 2018 - present)  
+- 
 - Project lead on the extension of the JIRA integration for the main experimentation and ideation platforms
 
 **Senior Software Engineer - Platform** - The Zebra (Nov 2017 - Sept 2018)
@@ -71,40 +50,7 @@ To help other engineers become more productive while learning promising new tech
 - Developed custom XML to HTML 1.0 subset for EDGAR SEC filings in Python
 - Contributed to the development of the XML to HTML 1.0 subset tool with XSLT
 
-**Systems Engineer** - Donatech, a contractor for Rockwell-Collins (Dec 2007 - Aug 2008)
-- Automated and manual testing for helicopter avionics equipment
-- Root cause analysis for bugs
-
-**Assistant Systems Administrator** - Ames Lab Scalable Computing Laborator (Jan 2003 - 2006)
-- Linux desktop support
-- Wrote system administration scripts for operations maintenance with Perl and Python
-- Maintained and wired large consumer-off-the-shelf (COTS) clusters
-
-**Software Development Intern** - Caterpillar - (Aug 2004 - Dec 2004)
-- Wrote a metrics dashboard with Coldfusion, C# ASP.NET
-- Wrote stored procedures in PL/SQL for Oracle databases
-
 ### Education
 Iowa State University  
-BS Computer Engineering, Mathematics (Dec 2007)  
+BS Computer Engineering, Mathematics 
 Specialized in applied/computational mathematics
-
-### College Activities
-- Ames Local Unix Users Group (2002-2004)
-  - Treasurer (2003)
-- ISU Mathematics Club
-  - Treasurer (2004)
-  - Vice-President (2005)
-- Pi Mu Epsilon Mathematics Honor Society
-- ISU Concert Band
-  - bass clarinet
-
-### Research Experiences for Undergraduates (REUs)
- - Iowa State University - Evolutionary Algorithms (2004)
- - University of Iowa - Linear Programming (2005)
- - Iowa State University - Linear Algebra: Matrix D-Stability (2006)
-
-### High School
-- National Merit Scholar Semifinalist
-- National Acheivement Scholar
-- National Honor Society
