@@ -1,20 +1,23 @@
 ---
-title: Curriculum Vitae 
+title: Curriculum Vitae
 layout: page
 ---
 
-Jessica Ross McKinnie  
-Austin, TX   
-[jess@deathweasel.io](jess@deathweasel.io)   
-[https://github.com/deathweaselx86](Github archive)   
+Jessica Ross McKinnie
+
+Austin, TX
+
+[jess@deathweasel.io](jess@deathweasel.io)
+
+[https://github.com/deathweaselx86](Github archive)
 
 ### Purpose
 To help other engineers become more productive while learning promising new technologies
 
 ### Positions
-**Senior Software Engineer** - Optimizely (Oct 2018 - present)  
-- 
+**Senior Software Engineer** - Optimizely (Oct 2018 - present)
 - Project lead on the extension of the JIRA integration for the main experimentation and ideation platforms
+
 
 **Senior Software Engineer - Platform** - The Zebra (Nov 2017 - Sept 2018)
 - Lead search and implementation of the Zebra's A/B testing solution with Wasabi, Intuit's open source
@@ -38,7 +41,7 @@ To help other engineers become more productive while learning promising new tech
 
 **Software Engineer** - Spiceworks (Mar 2014 - Oct 2015)
 - Maintained and produced new features for Spicework's Community product catalog and reviews system
-- Implemented the API for Spiceworks' product review badge widget 
+- Implemented the API for Spiceworks' product review badge widget
 - Contributed to Spiceworks' AppCenter, a marketplace for extensions for their IT products
 
 **Software Engineer** - Journyx (Mar 2010 - Sept 2013)
@@ -51,6 +54,6 @@ To help other engineers become more productive while learning promising new tech
 - Contributed to the development of the XML to HTML 1.0 subset tool with XSLT
 
 ### Education
-Iowa State University  
-BS Computer Engineering, Mathematics 
+Iowa State University
+BS Computer Engineering, Mathematics
 Specialized in applied/computational mathematics
